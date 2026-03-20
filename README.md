@@ -16,7 +16,9 @@ CSS
 
 # How to Run
 1- Clone or download the repository  
-2- Open **[index.html](index.html) in your browser  
+2- Open the live demo from the link below
+
+https://mayaremadd.github.io/websiteUsing-HTML-CSS/
 
 # What I Learned
 Structuring web pages using HTML  
